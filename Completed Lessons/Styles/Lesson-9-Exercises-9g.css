@@ -1,0 +1,38 @@
+.div-1 {
+  display: inline-block;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.profile-pic {
+  width: 155px;
+  height: 200px;
+  object-fit: cover;
+}
+p {
+  margin: 0px 0px 0px 0px;
+  font-family: arial;
+  vertical-align: center;
+  padding-left: 8px;
+}
+.name {
+  font-weight: bold;
+  padding-top: 5px;
+  font-size: 18px;
+}
+.mutual-friends {
+  color: rgb(105, 105, 105);
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+.button-add-friend {
+  background-color: rgb(51, 133, 255);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  padding: 8px 15px 8px 15px;
+  margin-left: 8px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}

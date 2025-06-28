@@ -1,0 +1,37 @@
+p {
+  font-family: arial;
+}
+.text {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+input {
+  display: block;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(235, 235, 235);
+  color: rgb(59, 59, 59);
+  width: 275px;
+}
+.pick-up {
+margin-bottom: 5px;
+}
+.destination {
+margin-bottom: 20px;
+}
+button {
+  padding: 10px 15px 10px 15px;
+  border: none;
+  margin-right: 10px;
+}
+.button-request {
+  background-color: black;
+  color: white;
+
+}
+.button-schedule {
+  background-color: rgb(235, 235, 235);
+  color: black;
+
+}

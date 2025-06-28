@@ -1,0 +1,30 @@
+.div-1 {
+  text-align: center;
+}
+
+.logo {
+width: 200px;
+display: block;
+margin-bottom: 10px;
+margin-left: 150px;
+margin: auto;
+margin-bottom: 15px;
+}
+
+.search-bar {
+width: 500px;
+padding: 8px 5px 8px 20px;
+border-radius: 25px;
+border: none;
+box-shadow: 1px 1px 10px  rgba(0, 0, 0, 0.15);
+display: block;
+margin: auto;
+}
+
+button {
+  border: none;
+  padding: 8px 15px 8px 15px;
+  margin-top: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+} 

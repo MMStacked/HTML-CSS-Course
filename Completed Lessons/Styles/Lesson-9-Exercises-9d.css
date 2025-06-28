@@ -1,0 +1,21 @@
+.div-1 {
+  background-color: rgb(59, 59, 59);
+  width: 320px;
+  padding: 1px 15px 15px 15px;
+
+}
+p {
+  color: white;
+  font-family: arial;
+  margin-top: ppx;
+  margin-bottom: 0px;
+}
+.title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.text {
+  font-size: 14px;
+  color: rgb(221, 221, 221);
+}
