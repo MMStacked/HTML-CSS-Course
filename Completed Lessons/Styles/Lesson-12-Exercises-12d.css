@@ -1,0 +1,17 @@
+
+.div-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.div-1 {
+  background-color: lightpink;
+}
+.div-2 {
+  background-color: lightpink;
+}
